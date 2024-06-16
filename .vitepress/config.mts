@@ -5,7 +5,7 @@ export default defineConfig({
   title: "首页",
   description: "MyBlog",
   base:"/docs/",
-  outDir:'./docs',
+  outDir:'docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
